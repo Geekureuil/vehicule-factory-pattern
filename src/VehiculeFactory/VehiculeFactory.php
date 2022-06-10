@@ -1,5 +1,7 @@
 <?php
 
+namespace VehiculeFactory;
+
 use Vehicules\Helicoptere\Helicoptere;
 use Vehicules\Moto\Moto;
 use Vehicules\VehiculeInterface;

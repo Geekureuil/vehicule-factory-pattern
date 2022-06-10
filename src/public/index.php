@@ -1,5 +1,7 @@
 <?php
 
+use VehiculeFactory\VehiculeFactory;
+
 $factory = new VehiculeFactory();
 
 $fichierVehicules = json_decode(file_get_contents("../vehicules.json"));
