@@ -1,0 +1,14 @@
+{
+  "name": "geekureuil/vehicule-factory-pattern",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Geekureuil",
+      "email": "derrey.xavier@gmail.com"
+    }
+  ],
+  "require": {
+  }
+}
