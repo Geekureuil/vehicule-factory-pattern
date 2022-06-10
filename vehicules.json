@@ -1,0 +1,41 @@
+{
+	"vehicules":
+		[
+			{
+				"marque": "Harley Davidson",
+				"modèle": "FXSB Softail",
+				"transmission": "courroie", 
+				"range": 290			
+			},
+			{
+				"marque": "Eurocopter",
+				"modele": "125",
+				"altitudeMaximum": 17000,
+				"range": 630
+			},
+			{
+				"marque": "Ducati",
+				"modèle": "1198 S",
+				"transmission": "chaine", 
+				"range": 240		
+			},
+			{
+				"marque": "Tesla",
+				"modèle": "X",
+				"motorisation": "electrique", 
+				"range": 580				
+			},
+			{
+				"marque": "Renault",
+				"modèle": "Clio",
+				"motorisation": "thermique", 
+				"range": 1000			
+			},
+			{
+				"marque": "Robinson",
+				"modele": "R22",
+				"altitudeMaximum": 14000,
+				"range": 386
+			}
+		]
+}
